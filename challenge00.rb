@@ -8,4 +8,7 @@ GST = 0.05
 
 grand_total = sub_total * (1+(PST + GST))
 
-puts grand_total
+puts "Subtotal: $#{sub_total}"
+puts "PST: $#{PST}"
+puts "GST: $#{GST}"
+puts "$#{grand_total.round(3)}"
