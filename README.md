@@ -1,3 +1,4 @@
-# lecture-05-02-2024
-## This is a subheading.
-This is a ruby project, for a lecture that I am attending.
+# Challenge 00
+## The Ultimate Intro for Ruby
+This is a ruby project, for my class Agile Full Stack Web Development at the
+Red River College
